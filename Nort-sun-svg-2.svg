@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1024 1021"
+     version="1.1"
+     id="svg41"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs30">
+    <linearGradient id="linearGradient16">
+      <stop style="stop-color:#09293e;stop-opacity:1;" offset="0.6485" id="stop16"/>
+      <stop style="stop-color:#09293e;stop-opacity:0;" offset="1" id="stop17"/>
+    </linearGradient>
+    <linearGradient id="linearGradient13">
+      <stop style="stop-color:#d7d7d7;stop-opacity:1;" offset="0.3968" id="stop14"/>
+      <stop style="stop-color:#ffffff;stop-opacity:0;" offset="1" id="stop15"/>
+    </linearGradient>
+    <linearGradient id="linearGradient60">
+      <stop style="stop-color:#797979;stop-opacity:1;" offset="0" id="stop61"/>
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.6656" id="stop62"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="511.425" y1="307.041" x2="511.425" y2="591.903" id="gradient-3">
+      <stop offset="0.7396" style="stop-color:#000000;stop-opacity:1;" id="stop25"/>
+      <stop offset="1" style="stop-color:#484848;stop-opacity:1;" id="stop26"/>
+    </linearGradient>
+
+    <!-- Linked gradients (fixed to xlink:href) -->
+    <linearGradient id="linearGradient62"
+                    x1="513.11084" y1="16.241989"
+                    x2="513.11084" y2="872.91913"
+                    gradientUnits="userSpaceOnUse"
+                    xlink:href="#linearGradient60"/>
+    <linearGradient id="linearGradient1"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient2"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient3"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient4"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient5"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient6"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient7"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient8"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+    <linearGradient id="linearGradient9"
+                    gradientUnits="userSpaceOnUse"
+                    x1="451.681" y1="258.59351"
+                    x2="451.681" y2="697.29352"
+                    xlink:href="#linearGradient16"/>
+
+    <linearGradient id="linearGradient10"
+                    gradientUnits="userSpaceOnUse"
+                    x1="589.84998" y1="235.42499"
+                    x2="589.84998" y2="667.177"
+                    xlink:href="#linearGradient13"/>
+    <linearGradient id="linearGradient11"
+                    gradientUnits="userSpaceOnUse"
+                    x1="589.84998" y1="235.42499"
+                    x2="589.84998" y2="667.177"
+                    xlink:href="#linearGradient13"/>
+    <linearGradient id="linearGradient14"
+                    gradientUnits="userSpaceOnUse"
+                    x1="589.84998" y1="235.42499"
+                    x2="589.84998" y2="667.177"
+                    xlink:href="#linearGradient13"/>
+  </defs>
+
+  <!-- MAIN LOGO GRAPHIC (now visible) -->
+  <g style="display:inline;visibility:visible"
+     id="g41"
+     transform="matrix(1.196361,0,0,1.196361,-100.805153,-115.061272)">
+    <title id="title30">Nort-sun</title>
+    <g id="g1">
+      <polygon
+        id="polygon1"
+        points="387.381,378.534 239.545,244.342 427.986,315.659 343.556,158.549 470.135,268.376 448.847,200.125 489.934,251.878 519.939,96.128 552.152,247.565 605,189.029 579.079,274.513 731.564,137.509 631.431,318.923 718.513,292.519 655.011,336.258 821.615,281.598 666.427,399.678 764.975,428.198 484.349,444.907 285.261,365.887"
+        style="visibility:visible;fill:#ce5b1e;"/>
+      <path
+        id="path31"
+        style="display:inline;visibility:visible;fill:#fedd5a;fill-opacity:1;stroke:#303030"
+        d="m 623.09,411.821 c 0.205,0.832 4.009,-15.687 2.785,-20.649 l 73.882,-44.587 -74.788,21.737 c 6.594,-1.347 -18.249,-53.409 -22.649,-52.505 l 42.348,-63.824 -56.797,48.821 c 4.715,-0.539 -30.997,-24.098 -54.777,-21.623 l -14.752,-65.228 -7.374,65.007 c -11.053,-3.182 -49.042,12.906 -42.332,14.885 l -47.059,-41.305 31.141,53.633 c -11.086,3.59 -26.887,36.013 -23.663,34.969 l -81.11,-34.294 73.449,57.015 c -1.007,0.112 -1.949,37.022 0.766,36.719 z"/>
+      <polygon
+        id="polygon32"
+        points="469.844,347.681 474.099,343.269 484.299,332.603 494.215,322.006 512.912,307.041 543.99,321.891 587.43,378.78 605.4,403.809 626.464,430.946 629.227,432.079 632.16,431.354 641.162,424.57 651.368,417.075 661.286,409.014 673.615,415.298 689.022,432.345 711.7,459.689 730.939,483.253 739.156,489.014 759.672,492.687 765.648,493.782 790.244,516.748 805.844,530.169 817.619,542.745 828.193,553.322 842.459,561.332 863.825,570.524 890.187,578.568 912.074,584.617 937.372,590.564 85.478,591.903 102.23,589.54 133.812,581.312 156.319,572.735 176.677,562.222 199.513,549.693 208.064,544.616 267.569,482.998 280.658,487.118 304.061,476.206 323.074,453.506 341.175,432.385 365.746,402.618 378.294,399.407 408.185,423.908 411.016,424.971 414.583,423.393 441.375,395.362 451.311,381.287 464.18,357.575"
+        style="display:inline;visibility:visible;fill:url(#gradient-3);paint-order:stroke"/>
+      <path
+        id="path32"
+        style="display:inline;visibility:visible;fill:url(#linearGradient62);fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:3.99;stroke-dasharray:none;paint-order:stroke markers"
+        d="m 87.514,591.733 c 1.16,2.825 102.453,-48.898 101.541,-51.119 l 74.381,-66.694 5.782,-1.641 11.296,2.497 15.223,-6.041 37.884,-45.615 23.117,-26.15 10.938,-6.994 13.595,-1.372 28.565,24.077 16.69,-14.977 16.186,-19.029 8.258,-18.261 15.908,-23.66 18.728,-19.146 25.656,-19.972 36.425,16.644 82.492,106.183 11.803,-8.618 14.573,-11.326 8.825,-1.806 8.795,2.085 16.853,13.135 27.825,35.16 21.305,24.737 26.222,3.956 c 2.685,-0.924 22.29,19.318 21.84,19.473 l 31.851,29.326 11.052,11.807 27.926,17.559 37.185,18.571 44.5,17.046 -41.686,-7.515 -30.602,-10.555 c -6.939,-3.168 -49.528,-21.401 -44.794,-22.284 l -37.397,-36.456 -21.999,-20.529 -21.342,-3.357 c -0.278,0.754 -13.145,-4.765 -12.395,-6.798 l -7.942,-8.988 -6.928,-10.217 -7.754,-9.015 -7.452,-8.982 -10.03,-11.912 -9.733,-11.346 -6.303,-6.973 -12.851,-6.855 -17.907,13.795 -9.336,6.776 -7.103,1.357 -6.832,-8.457 -9.89,-13.285 -31.369,-41.582 -15.807,-20.137 -12.532,-17.157 -6.539,-9.462 -30.618,-14.859 -15.019,11.468 -25.371,25.629 -5.903,8.483 -7.031,12.343 -13.064,22.992 -10.436,13.329 -19.703,19.379 -4.186,4.763 -4.693,-1.034 -18.636,-15.663 -11.418,-8.96 -11.871,2.917 -20.202,24.342 -14.456,15.633 -14.492,17.973 -11.509,16.133 -13.865,5.646 -12.595,5.425 -11.375,-4.47 -13.903,14.495 -18.677,19.035 -11.548,12.409 -17.066,16.611 -14.532,9.461 -27.104,12.933 -28.945,12.328 z"/>
+    </g>
+
+    <g style="display:inline;visibility:visible;fill-opacity:1" id="g38">
+      <path id="path33"
+            d="M 232.331,559.418 262.3,546.84 286.193,516.365 Z"
+            style="display:inline;fill:url(#linearGradient1);fill-opacity:1"/>
+      <polygon id="polygon33"
+               points="353.247,478.009 341.714,490.563 326.57,508.393 298.725,535.892 286.408,548.1 302.201,541.568 328.858,525.483 334.483,522.77 337.671,519.353 360.505,473.584"
+               style="fill:url(#linearGradient2);fill-opacity:1"/>
+      <path id="path34"
+            d="m 367.659,525.951 10.872,7.885 12.636,10.487 c 0.599,-0.177 21.07,17.267 20.789,17.35 -0.356,0.44 -23.964,-15.077 -23.496,-15.655 -0.461,0.26 -21.075,-19.913 -20.801,-20.067 z"
+            style="fill:url(#linearGradient3);fill-opacity:1"/>
+      <path id="path35"
+            d="m 491.423,384.131 -6.553,5.501 -5.584,6.714 -6.837,6.441 -12.812,18.971 -5.944,12.589 -7.6,14.515 -4.374,8.402 16.916,-18.389 8.46,-8.194 c 0.972,0.491 24.689,-46.368 24.328,-46.55 z"
+            style="fill:url(#linearGradient4);fill-opacity:1"/>
+      <path id="path36"
+            d="m 489.676,426.098 -11.265,9.383 -5.923,3.062 -19.422,37.815 z"
+            style="fill:url(#linearGradient5);fill-opacity:1"/>
+      <polygon id="polygon36"
+               points="511.723,548.42 471.983,488.686 486.66,504.856 498.485,514.315"
+               style="fill:url(#linearGradient6);fill-opacity:1"/>
+      <polygon id="polygon37"
+               points="605.51,556.45 615.595,559.988 630.18,571.756 612.282,565.389 587.791,549.959"
+               style="fill:url(#linearGradient7);fill-opacity:1"/>
+      <path id="path37"
+            d="m 590.557,472.438 -12.366,-43.671 14.278,14.815 7.918,12.163 14.51,14.23 8.576,10.348 14.051,22.302 c -0.268,0.658 -48.012,-27.618 -46.967,-30.187 z"
+            style="display:inline;fill:url(#linearGradient8);fill-opacity:1"/>
+      <polygon id="polygon38"
+               points="656.892,493.926 671.031,504.692 654.239,470.692 645.116,459.602"
+               style="display:inline;fill:url(#linearGradient9);fill-opacity:1"/>
+    </g>
+
+    <g style="display:inline;visibility:visible;fill-opacity:1" id="g40">
+      <polygon id="polygon39"
+               points="386.371,490.701 406.781,507.097 433.313,535.839 416.106,502.042 449.704,522.628 480.124,551.913 454.828,514.73 428.036,489.254 422.288,481.582 407.206,452.758 373.974,422.565 404.907,482.262 378.008,464.362"
+               style="fill:url(#linearGradient10);fill-opacity:1"/>
+      <polygon id="polygon40"
+               points="559.979,379.097 542.049,353.337 519.172,333.223 523.659,353.165 541.108,380.973 555.111,408.915 524.784,378.286 528.085,393.545 529.659,408.826 540.811,420.766 572.646,487.412 540.184,463.951 513.137,447.949 546.517,506.945 561.737,526.437 550.872,496.908 586.561,513.694 615.832,536.953 674.441,568.036 643.878,542.45 632.265,535.496 591.582,478.632 577.527,427.929 592.242,441.848 599.392,453.021 623.229,479.194 602.641,438.368 583.077,406.829"
+               style="fill:url(#linearGradient11);fill-opacity:1"/>
+      <path id="path40"
+            style="fill:url(#linearGradient14);fill-opacity:1"
+            d="m 667.481,437.388 2.859,7.621 9.199,27.899 17.391,16.608 13.269,19.611 -24.164,-17.414 10.898,28.801 32.976,26.006 15.23,12.167 -21.511,-31.428 42.748,23.529 19.46,9.792 19.89,8.799 -57.39,-58.219 8.661,22.675 -18.593,-12.5 c -3.691,-11.101 -65.178,-84.05 -70.923,-83.947 z"/>
+    </g>
+  </g>
+
+  <!-- TEXT LAYER -->
+  <g id="layer1" transform="matrix(1,0,0,1,0,0)">
+    <text
+      id="text1"
+      x="512"
+      y="729.778"
+      transform="matrix(0.952137,0,0,1,24.50581,-21.587898)"
+      style="display:inline;visibility:visible;fill:rgb(243,243,243);font-family:Cinzel, 'Times New Roman', serif;font-size:140px;letter-spacing:10px;stroke:rgb(0,0,0);text-anchor:middle;white-space:pre">
+      NORT-SUN
+    </text>
+  </g>
+</svg>
+
