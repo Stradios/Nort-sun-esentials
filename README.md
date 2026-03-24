@@ -14,65 +14,23 @@ This repository is designed to simplify setup, management, and deployment of ser
 - 🔐 Configuration helpers for networking and security
 - 📁 Organized and reusable components
 
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-```bash
-git clone https://github.com/Stradios/Nort-sun-esentials.git
-cd Nort-sun-esentials
-```
-
-### Usage
-Each folder/script includes its own instructions where needed.  
-Make sure to review scripts before running:
-
-```bash
-chmod +x script.sh
-./script.sh
-```
-
-> ⚠️ Some scripts may require **sudo/root privileges**.
-
----
-
-## 🧰 Requirements
-
-- Linux-based OS (Arch, Ubuntu, Debian, etc.)
-- Bash shell
-- Basic knowledge of terminal usage
-
----
 
 ## 📂 Structure
 
 ```
 Nort-sun-esentials/
-├── scripts/
-├── configs/
-├── tools/
+├── Nort-sun images/
+├── Nort-sun images/favicons/
 └── README.md
 ```
 
 *(Structure may evolve as the project grows)*
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo  
-2. Create a new branch  
-3. Make your changes  
-4. Submit a pull request  
-
----
 
 ## 📜 License & Copyright
 
-All images used in this repository are:
+All images in this repository (including `.png`, `.svg`, and `.ico` files) are:
 
 © 2024 Nort-Sun Gaming Community. All rights reserved.  
 **Not for use, reproduction, or distribution without explicit permission.**
